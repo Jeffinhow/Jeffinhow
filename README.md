@@ -4,8 +4,6 @@ Olá Me Chamo Jefferson !
 <a href="https://www.github.com/jeffinhow" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jeffinhow?logo=github&style=for-the-badge&color=ec4899&labelColor=1e3a8a" /></a>
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/jeffinhow"><img src="https://github-readme-stats.vercel.app/api?username=jeffinhow&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="jeffinhow's GitHub stats" /></a>
@@ -27,4 +25,4 @@ src="https://img.shields.io/github/followers/jeffinhow?logo=github&style=for-the
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/profile.php?id=100074886366233" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/jeffinhow" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jf_araujo021" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jefferson-araujo-1331b5200/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/profile.php?id=100074886366233" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a></a> <a href="http://www.instagram.com/jf_araujo021" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jefferson-araujo-1331b5200/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
