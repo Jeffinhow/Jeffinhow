@@ -1,4 +1,4 @@
-### Olá Me chamo Jefferson ! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+### Olá Me chamo Jefferson ! 😁​💻​🧑🏻‍💻
 
 - Estou cursando Análise e Desenvolimento de Sistemas
 - Estudando Programação
